@@ -1,5 +1,6 @@
-def quadratic(x1, x2):
-    # code away!
-    return x1+x2
-
-print(quadratic(105,200))
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+print(a+b)
+print(a-b)
+print(a*b)  
